@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f92f7051a46463c8c73a006910ef4f, type: 3}
+  m_Name: MapCircleData
+  m_EditorClassIdentifier: 
+  circle:
+  - modifyAngle: 0
+    splitSection: 1
+    circleRadius: 0
+  - modifyAngle: 0
+    splitSection: 5
+    circleRadius: 2
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 4
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 7
+  - modifyAngle: 0
+    splitSection: 5
+    circleRadius: 10
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 13
+  - modifyAngle: 0
+    splitSection: 30
+    circleRadius: 16
+  - modifyAngle: 0
+    splitSection: 30
+    circleRadius: 19
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 22
+  - modifyAngle: 0
+    splitSection: 50
+    circleRadius: 25
+  - modifyAngle: 0
+    splitSection: 40
+    circleRadius: 28
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 31
+  - modifyAngle: 0
+    splitSection: 30
+    circleRadius: 34
+  - modifyAngle: 0
+    splitSection: 20
+    circleRadius: 37
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 40
+  - modifyAngle: 0
+    splitSection: 10
+    circleRadius: 43

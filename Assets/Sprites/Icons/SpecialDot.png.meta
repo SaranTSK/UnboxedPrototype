@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 7ad5635da012b4764992b5f8d98f458d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3249757878914217745
+    second: SpecialDot_0
+  - first:
+      213: 810997383597997144
+    second: SpecialDot_1
+  - first:
+      213: 4768237230451712744
+    second: SpecialDot_2
+  - first:
+      213: 5605151672151186181
+    second: SpecialDot_3
+  - first:
+      213: 3471180159011628019
+    second: SpecialDot_4
+  - first:
+      213: -2688939716473639588
+    second: SpecialDot_5
+  - first:
+      213: 5804765559233873173
+    second: SpecialDot_6
+  - first:
+      213: 3278767586734492103
+    second: SpecialDot_7
+  - first:
+      213: -140628764398230449
+    second: SpecialDot_8
+  - first:
+      213: -4091470272665562259
+    second: SpecialDot_9
+  - first:
+      213: 5840635030713290678
+    second: SpecialDot_10
+  - first:
+      213: 2199893184583379084
+    second: SpecialDot_11
+  - first:
+      213: 3266365938350604536
+    second: SpecialDot_12
+  - first:
+      213: 2862216095773049836
+    second: SpecialDot_13
+  - first:
+      213: 7185853064013422892
+    second: SpecialDot_14
+  - first:
+      213: 1883720551296500267
+    second: SpecialDot_15
+  - first:
+      213: -668943130868754843
+    second: SpecialDot_16
+  - first:
+      213: -4800763250243655290
+    second: SpecialDot_17
+  - first:
+      213: 2770879666822961507
+    second: SpecialDot_18
+  - first:
+      213: -4377092357236084955
+    second: SpecialDot_19
+  - first:
+      213: 7357098377343365265
+    second: SpecialDot_20
+  - first:
+      213: -7775619786273387920
+    second: SpecialDot_21
+  - first:
+      213: -115642449912843199
+    second: SpecialDot_22
+  - first:
+      213: -5584893927744567750
+    second: SpecialDot_23
+  - first:
+      213: 5239565282008421389
+    second: SpecialDot_24
+  - first:
+      213: -7253335042337761473
+    second: SpecialDot_25
+  - first:
+      213: -2260966152994365234
+    second: SpecialDot_26
+  - first:
+      213: 2833670683534182027
+    second: SpecialDot_27
+  - first:
+      213: 3478678285626717125
+    second: SpecialDot_28
+  - first:
+      213: 3548788494759855159
+    second: SpecialDot_29
+  - first:
+      213: -658750213472105616
+    second: SpecialDot_30
+  - first:
+      213: -65211848766578661
+    second: SpecialDot_31
+  - first:
+      213: 3404955907510204342
+    second: SpecialDot_32
+  - first:
+      213: -517568517847213938
+    second: SpecialDot_33
+  - first:
+      213: -4860352538159190571
+    second: SpecialDot_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialDot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11775baa295791d20800000000000000
+      internalID: 3249757878914217745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c3123d2dd314b00800000000000000
+      internalID: 810997383597997144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2edd57f7e2c2240800000000000000
+      internalID: 4768237230451712744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b12ca9fbf79cd40800000000000000
+      internalID: 5605151672151186181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a549a6fb1c2030800000000000000
+      internalID: 3471180159011628019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d26211397feaad0800000000000000
+      internalID: -2688939716473639588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158e8a658bae8050800000000000000
+      internalID: 5804765559233873173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9cf5c9fb5808d20800000000000000
+      internalID: 3278767586734492103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4467d442e26c0ef0800000000000000
+      internalID: -140628764398230449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d2bce67d2837c0800000000000000
+      internalID: -4091470272665562259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4e5c8d9a1e0150800000000000000
+      internalID: 5840635030713290678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8825e22237978e10800000000000000
+      internalID: 2199893184583379084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c2d5d386745d20800000000000000
+      internalID: 3266365938350604536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce345fadf52a8b720800000000000000
+      internalID: 2862216095773049836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212ca81a4749b360800000000000000
+      internalID: 7185853064013422892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22812c6cd1542a10800000000000000
+      internalID: 1883720551296500267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56651a544cf67b6f0800000000000000
+      internalID: -668943130868754843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6892a7a6243406db0800000000000000
+      internalID: -4800763250243655290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d5505064247620800000000000000
+      internalID: 2770879666822961507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fadd121b17143c0800000000000000
+      internalID: -4377092357236084955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 295
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190772f9ef9a91660800000000000000
+      internalID: 7357098377343365265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 295
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0daa5003771490800000000000000
+      internalID: -7775619786273387920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 295
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443df3fdc7256ef0800000000000000
+      internalID: -115642449912843199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 295
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368c8010987e72b0800000000000000
+      internalID: -5584893927744567750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 295
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d4931ddca6b840800000000000000
+      internalID: 5239565282008421389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 220
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379094753af65b90800000000000000
+      internalID: -7253335042337761473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e691534f6f90e0800000000000000
+      internalID: -2260966152994365234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 220
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864e762978335720800000000000000
+      internalID: 2833670683534182027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 220
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c335ae487fb64030800000000000000
+      internalID: 3478678285626717125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734872d6554df3130800000000000000
+      internalID: 3548788494759855159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 145
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b484acb26abd6f0800000000000000
+      internalID: -658750213472105616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 145
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102f174b22581ff0800000000000000
+      internalID: -65211848766578661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 70
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7730f8b55d04f20800000000000000
+      internalID: 3404955907510204342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 70
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889acadc2a31d8f0800000000000000
+      internalID: -517568517847213938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialDot_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd6ad72e1f8c8cb0800000000000000
+      internalID: -4860352538159190571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

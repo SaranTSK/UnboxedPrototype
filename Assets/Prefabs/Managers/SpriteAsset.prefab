@@ -1,0 +1,857 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2118497028850555027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2118497028850555026}
+  - component: {fileID: 2118497028850555757}
+  m_Layer: 0
+  m_Name: SpriteAsset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2118497028850555026
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118497028850555027}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2118497028850555757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118497028850555027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7545d2a30f1294ecfad6cf5fcf9e5e96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  frameSprites:
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 4c1d4440d22204537b0a19ad6903cbf9
+    m_SubObjectName: BoxFrame2_5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  boxSprites:
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_A_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_A_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_A_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_A_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_A_5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B3_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B4_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B5_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B6_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B7_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B8_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B9_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_B10_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C3_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C4_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C5_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C6_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C7_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C8_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C9_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_C10_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_D_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_D_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_D_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_D_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_D_5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E3_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E4_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E5_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E6_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E7_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E8_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E9_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_E10_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F1_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F1_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F2_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F2_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F3_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F3_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F3_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F4_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F4_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F4_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F5_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F5_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F5_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F6_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F6_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F6_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F7_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F7_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F7_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F8_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F8_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F8_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F9_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F9_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F9_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F10_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F10_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_F10_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G1_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G1_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G2_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G2_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G2_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G3_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G3_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G3_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G4_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G4_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G4_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G5_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G5_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G5_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G6_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G6_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G6_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G7_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G7_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G7_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G8_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G8_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G8_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G9_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G9_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G9_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G10_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G10_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_G10_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Gate1_10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  puzzleSprites:
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_None
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Red
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Orange
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Yellow
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Green
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Turqouise
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Navy
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Violet
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Pink
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_Black
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Puzzle_White
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  dotSprites: []
+  lockSprites:
+  - m_AssetGUID: 930d1fdc1a9794bb58e0db3407d895f7
+    m_SubObjectName: Box_Lock
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: aa1ed4b3a36ae42e79df6570ccbfe7a8
+    m_SubObjectName: BoxSymbol_Lock_9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_Locked
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  gemsSprites:
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_E10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_D10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_C10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_B10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_A10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S2
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S5
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S6
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S7
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S8
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S9
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_AssetGUID: 55b27f2407ea74b1abf096e569827fbe
+    m_SubObjectName: Gemstone_S10
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  completeFrameSprites: []
+  completeBoxSprites: []
+  completePuzzleSprites: []
+  completeDotSprites: []
+  completeLockSprites: []
+  completeGemsSprites: []

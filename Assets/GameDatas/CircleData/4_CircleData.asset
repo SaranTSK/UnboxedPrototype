@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f92f7051a46463c8c73a006910ef4f, type: 3}
+  m_Name: 4_CircleData
+  m_EditorClassIdentifier: 
+  circle:
+  - modifyAngle: 0
+    splitSection: 1
+    circleRadius: 0
+  - modifyAngle: 0
+    splitSection: 6
+    circleRadius: 1
+  - modifyAngle: 0
+    splitSection: 6
+    circleRadius: 2
+  - modifyAngle: 0
+    splitSection: 6
+    circleRadius: 3
+  - modifyAngle: 0
+    splitSection: 6
+    circleRadius: 4

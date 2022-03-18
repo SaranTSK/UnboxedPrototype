@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6857338201045599522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6857338201045599580}
+  - component: {fileID: 6857338201045599581}
+  m_Layer: 0
+  m_Name: ObjectAsset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6857338201045599580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6857338201045599522}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6857338201045599581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6857338201045599522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24bc2115cc159474daa0c5d585dba784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assetPref:
+  - m_AssetGUID: d6b546478afd34cdfb194f2226e060f3
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 47ec79de97ee5436ea0fb3dfc3b05657
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 59d66754a72b44d99a203d61107099b5
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 673f70eabb80445daa524d9b881d9f0a
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 8584f0b8e52c34a4bb3a1aae5bf17447
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 860a621aa34ea4aea87d762740c31af7
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 1433d6ab1ad7c4546a1e37666f8c7285
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: 1e6d9dbe514d049b9835b3b5f4dc8305
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: c4897558810a74112bdab97277c64100
+    m_SubObjectName: 
+    m_SubObjectType: 
+  - m_AssetGUID: d83a49bca19c646ffb10b2b758a5c0cb
+    m_SubObjectName: 
+    m_SubObjectType: 
+  completePref: []

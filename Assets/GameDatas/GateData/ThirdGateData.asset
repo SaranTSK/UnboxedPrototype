@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1621b6b344046399528861971d9927, type: 3}
+  m_Name: ThirdGateData
+  m_EditorClassIdentifier: 
+  gate: 5
+  red:
+    clear: 0
+    boxClueId: 
+  orange:
+    clear: 0
+    boxClueId: 
+  yellow:
+    clear: 0
+    boxClueId: 
+  green:
+    clear: 0
+    boxClueId: 
+  turquoise:
+    clear: 0
+    boxClueId: 
+  navy:
+    clear: 0
+    boxClueId: 
+  violet:
+    clear: 0
+    boxClueId: 
+  pink:
+    clear: 0
+    boxClueId: 
+  black:
+    clear: 0
+    boxClueId: 
+  white:
+    clear: 0
+    boxClueId: 

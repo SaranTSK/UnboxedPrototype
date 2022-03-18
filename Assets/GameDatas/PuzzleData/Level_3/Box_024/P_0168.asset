@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e1cb1d36c4f436bb4c9884f289debd, type: 3}
+  m_Name: P_0168
+  m_EditorClassIdentifier: 
+  puzzleId: 168
+  gemsName: 0
+  circleLevel: 0
+  levelIndex: 0
+  width: 3
+  height: 4
+  gridGap: 1
+  unlock: 0
+  clear: 0
+  dotList: 010000000400000000000000040000000200000005000000040000000400000002000000000000000400000001000000
+  connectedList:
+  - puzzleTargetId: 169
+    puzzleConditionId: 168
+  - puzzleTargetId: 170
+    puzzleConditionId: 168
+  - puzzleTargetId: 171
+    puzzleConditionId: 168
+  - puzzleTargetId: 172
+    puzzleConditionId: 168
+  - puzzleTargetId: 173
+    puzzleConditionId: 168
+  - puzzleTargetId: 174
+    puzzleConditionId: 168
+  clearedEvents:
+  - eventName: 2
+    targetIndex: 169
+  - eventName: 2
+    targetIndex: 170
+  - eventName: 2
+    targetIndex: 171
+  - eventName: 2
+    targetIndex: 172
+  - eventName: 2
+    targetIndex: 173
+  - eventName: 2
+    targetIndex: 174

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70256c2914a94f559f8fba995151ce0, type: 3}
+  m_Name: Box001
+  m_EditorClassIdentifier: 
+  boxId: 1
+  boxName: B0001
+  isGate: 0
+  isClue: 0
+  boxGems: 0
+  gemsTier: 0
+  boxSection: 5
+  rarity: 0
+  unlock: 0
+  unlockConditionPuzzleId: 1
+  clear: 0
+  connectedList:
+  - boxTargetId: 6
+    puzzleConditionId: 8
+  - boxTargetId: 7
+    puzzleConditionId: 13
+  circleGenerate: 1
+  puzzleList:
+  - {fileID: 11400000, guid: 1c83aa06483dd4faab46c6efc5e270f9, type: 2}
+  - {fileID: 11400000, guid: 139a3669e08f6499ea694fb24a72dfcd, type: 2}
+  - {fileID: 11400000, guid: 53dda5fb8772a452285444a13e8be73f, type: 2}
+  - {fileID: 11400000, guid: 762f4a364847243c3aab51bc0d2770b0, type: 2}
+  - {fileID: 11400000, guid: 84b39e4f0018f4cafa5a50ff4a27c1c9, type: 2}
+  - {fileID: 11400000, guid: f60830b6da8d347c1b57190d584fd271, type: 2}
+  - {fileID: 11400000, guid: ffd5aa6def8b3432483ac94f986ee166, type: 2}
+  circleGenIndex: 1
+  minPuzzleId: 7
+  maxPuzzleId: 13

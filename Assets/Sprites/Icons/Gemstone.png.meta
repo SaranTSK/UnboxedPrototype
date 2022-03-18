@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 55b27f2407ea74b1abf096e569827fbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9083826631700589228
+    second: Gemstone_Locked
+  - first:
+      213: 333065593448226795
+    second: Gemstone_S1
+  - first:
+      213: -4993063108474773014
+    second: Gemstone_S2
+  - first:
+      213: -3914495600001917926
+    second: Gemstone_S3
+  - first:
+      213: 3845511363382699877
+    second: Gemstone_S4
+  - first:
+      213: 1232004761135793427
+    second: Gemstone_S5
+  - first:
+      213: -612260104548550541
+    second: Gemstone_S6
+  - first:
+      213: -7790853147230023737
+    second: Gemstone_S7
+  - first:
+      213: 5455881818047309438
+    second: Gemstone_S8
+  - first:
+      213: -1104617066050145813
+    second: Gemstone_S9
+  - first:
+      213: -3664394277040824028
+    second: Gemstone_S10
+  - first:
+      213: 7209086178395784404
+    second: Gemstone_A1
+  - first:
+      213: 46304734990819702
+    second: Gemstone_A2
+  - first:
+      213: 9097474090864755832
+    second: Gemstone_A3
+  - first:
+      213: -5582122250132113197
+    second: Gemstone_A4
+  - first:
+      213: -6924276525693688479
+    second: Gemstone_A5
+  - first:
+      213: 6465703067163643071
+    second: Gemstone_A6
+  - first:
+      213: -1038818615420367665
+    second: Gemstone_A7
+  - first:
+      213: -466507571574951507
+    second: Gemstone_A8
+  - first:
+      213: -6968456349102184111
+    second: Gemstone_A9
+  - first:
+      213: 459617286838788398
+    second: Gemstone_A10
+  - first:
+      213: -2469334431484145873
+    second: Gemstone_B1
+  - first:
+      213: -1107911427045370235
+    second: Gemstone_B2
+  - first:
+      213: 7370286502779401238
+    second: Gemstone_B3
+  - first:
+      213: 293093217701110365
+    second: Gemstone_B4
+  - first:
+      213: -2175713429410626539
+    second: Gemstone_B5
+  - first:
+      213: 7192985334557049594
+    second: Gemstone_B6
+  - first:
+      213: 6858869119707303519
+    second: Gemstone_B7
+  - first:
+      213: 7966796509205176865
+    second: Gemstone_B8
+  - first:
+      213: 5367214614348070481
+    second: Gemstone_B9
+  - first:
+      213: 4896596252948112109
+    second: Gemstone_B10
+  - first:
+      213: -7437203140556730035
+    second: Gemstone_C1
+  - first:
+      213: 7805342352698475900
+    second: Gemstone_C2
+  - first:
+      213: -196097620314913592
+    second: Gemstone_C3
+  - first:
+      213: 4601010053786925440
+    second: Gemstone_C4
+  - first:
+      213: -1050000721531134768
+    second: Gemstone_C5
+  - first:
+      213: -325712884795080579
+    second: Gemstone_C6
+  - first:
+      213: -1379166275352464215
+    second: Gemstone_C7
+  - first:
+      213: 9070168084045670222
+    second: Gemstone_C8
+  - first:
+      213: -8858386972319790507
+    second: Gemstone_C9
+  - first:
+      213: -3251815643279321825
+    second: Gemstone_C10
+  - first:
+      213: 7135842572099965784
+    second: Gemstone_D1
+  - first:
+      213: -4208841520282158662
+    second: Gemstone_D2
+  - first:
+      213: 7380512303280927634
+    second: Gemstone_D3
+  - first:
+      213: -8074590018887200451
+    second: Gemstone_D4
+  - first:
+      213: -2342912858662049686
+    second: Gemstone_D5
+  - first:
+      213: 3250228390610878325
+    second: Gemstone_D6
+  - first:
+      213: 8953980068881418748
+    second: Gemstone_D7
+  - first:
+      213: 7902341679545460731
+    second: Gemstone_D8
+  - first:
+      213: -6800194754926675752
+    second: Gemstone_D9
+  - first:
+      213: -8861320853040650133
+    second: Gemstone_D10
+  - first:
+      213: -8652596436262140157
+    second: Gemstone_E1
+  - first:
+      213: -123041311545472706
+    second: Gemstone_E2
+  - first:
+      213: -1450915177676734890
+    second: Gemstone_E3
+  - first:
+      213: -5894449753116953404
+    second: Gemstone_E4
+  - first:
+      213: 1797123637802139645
+    second: Gemstone_E5
+  - first:
+      213: -164576078260976599
+    second: Gemstone_E6
+  - first:
+      213: 5177305735190508835
+    second: Gemstone_E7
+  - first:
+      213: 5622194097677053152
+    second: Gemstone_E8
+  - first:
+      213: 4064225973719624848
+    second: Gemstone_E9
+  - first:
+      213: -4226064672660828386
+    second: Gemstone_E10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gemstone_Locked
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 450
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d0408ec3cfe180800000000000000
+      internalID: -9083826631700589228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd26084694f9400800000000000000
+      internalID: 333065593448226795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e046ae8315bab0800000000000000
+      internalID: -4993063108474773014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c5e0fddfaeca9c0800000000000000
+      internalID: -3914495600001917926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567672ae5300e5530800000000000000
+      internalID: 3845511363382699877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c6158dc5f81110800000000000000
+      internalID: 1232004761135793427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787d36cda0d087f0800000000000000
+      internalID: -612260104548550541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfce1e175451e390800000000000000
+      internalID: -7790853147230023737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e8356b9f27bb40800000000000000
+      internalID: 5455881818047309438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13f3581ac9ba0f0800000000000000
+      internalID: -1104617066050145813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_S10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 375
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e100e1d4752dc0800000000000000
+      internalID: -3664394277040824028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d485721fa1db0460800000000000000
+      internalID: 7209086178395784404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 299
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671eb8049e184a000800000000000000
+      internalID: 46304734990819702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87440533c78b04e70800000000000000
+      internalID: 9097474090864755832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8321c83615882b0800000000000000
+      internalID: -5582122250132113197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a37faf2708ef90800000000000000
+      internalID: -6924276525693688479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc417dceaacab950800000000000000
+      internalID: 6465703067163643071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc4ec129ff5591f0800000000000000
+      internalID: -1038818615420367665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1be37d5d1a689f0800000000000000
+      internalID: -466507571574951507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e2f6fed11b4f90800000000000000
+      internalID: -6968456349102184111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_A10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 300
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a7aabc73e06600800000000000000
+      internalID: 459617286838788398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0fbbea692bbdd0800000000000000
+      internalID: -2469334431484145873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865d545d68ef90f0800000000000000
+      internalID: -1107911427045370235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b50b5684884660800000000000000
+      internalID: 7370286502779401238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a6278ab6411400800000000000000
+      internalID: 293093217701110365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514cee2d9205ec1e0800000000000000
+      internalID: -2175713429410626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20edc3d0e92d360800000000000000
+      internalID: 7192985334557049594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecc01ef199f2f50800000000000000
+      internalID: 6858869119707303519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222ff8173fbf8e60800000000000000
+      internalID: 7966796509205176865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7089414d2c7a40800000000000000
+      internalID: 5367214614348070481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_B10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 225
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de22b79495434f340800000000000000
+      internalID: 4896596252948112109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4152bcc52fb9c890800000000000000
+      internalID: -7437203140556730035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7587eae385225c60800000000000000
+      internalID: 7805342352698475900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c484d7d042574df0800000000000000
+      internalID: -196097620314913592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08978f744421adf30800000000000000
+      internalID: 4601010053786925440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9b3b28e5ad61f0800000000000000
+      internalID: -1050000721531134768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7085036bd5da7bf0800000000000000
+      internalID: -325712884795080579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4fa6764973cdce0800000000000000
+      internalID: -1379166275352464215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a0ae01d5bfdd70800000000000000
+      internalID: 9070168084045670222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4eef7bffa01580800000000000000
+      internalID: -8858386972319790507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_C10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 150
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15174bb6ea3fd2d0800000000000000
+      internalID: -3251815643279321825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d023130b970360800000000000000
+      internalID: 7135842572099965784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9baabcfe03795c0800000000000000
+      internalID: -4208841520282158662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b57116d8dc6660800000000000000
+      internalID: 7380512303280927634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315059a82b41ff80800000000000000
+      internalID: -8074590018887200451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e0c71b2d4c7fd0800000000000000
+      internalID: -2342912858662049686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f304530812b1d20800000000000000
+      internalID: 3250228390610878325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ca93be6de24c70800000000000000
+      internalID: 8953980068881418748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7221f93e1caad60800000000000000
+      internalID: 7902341679545460731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8fe1d36ead0a1a0800000000000000
+      internalID: -6800194754926675752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_D10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 75
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6820c922a3460580800000000000000
+      internalID: -8861320853040650133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c8c7726dcbe780800000000000000
+      internalID: -8652596436262140157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3942ac349eda4ef0800000000000000
+      internalID: -123041311545472706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efa5b45505ddbe0800000000000000
+      internalID: -1450915177676734890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4331ffd25b23ea0800000000000000
+      internalID: -5894449753116953404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff77a05d6aa0f810800000000000000
+      internalID: 1797123637802139645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244ab4cdee47bdf0800000000000000
+      internalID: -164576078260976599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3257f97b22c79d740800000000000000
+      internalID: 5177305735190508835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca6528ebb060e40800000000000000
+      internalID: 5622194097677053152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c697a6df7076830800000000000000
+      internalID: 4064225973719624848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gemstone_E10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f493422900a55c0800000000000000
+      internalID: -4226064672660828386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

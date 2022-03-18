@@ -1,0 +1,8124 @@
+fileFormatVersion: 2
+guid: 930d1fdc1a9794bb58e0db3407d895f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3965348328300838025
+    second: Box_0
+  - first:
+      213: 4465249856404902766
+    second: BoxSymbol_1
+  - first:
+      213: 9195801557319051734
+    second: BoxSymbol_2
+  - first:
+      213: 2216422637446420140
+    second: BoxSymbol_3
+  - first:
+      213: -5551253708472201399
+    second: BoxSymbol_4
+  - first:
+      213: 3527110810639213124
+    second: BoxSymbol_5
+  - first:
+      213: 5030654838675573893
+    second: BoxSymbol_6
+  - first:
+      213: 6624121463567850237
+    second: BoxSymbol_7
+  - first:
+      213: 5245069008634518491
+    second: BoxSymbol_8
+  - first:
+      213: -6185539678881659925
+    second: BoxSymbol_9
+  - first:
+      213: -6004506714950882638
+    second: BoxSymbol_10
+  - first:
+      213: 1992282579417257732
+    second: BoxSymbol_11
+  - first:
+      213: -1863106497924898767
+    second: Puzzle_None
+  - first:
+      213: -1808991163429349837
+    second: Puzzle_Red
+  - first:
+      213: -4144697335920198641
+    second: Puzzle_Orange
+  - first:
+      213: -7075589402132834746
+    second: Puzzle_Yellow
+  - first:
+      213: 2362918948840576326
+    second: Puzzle_Green
+  - first:
+      213: 2898094588602151772
+    second: Puzzle_Turqouise
+  - first:
+      213: -453644919538518189
+    second: Puzzle_Navy
+  - first:
+      213: 1056846684306209300
+    second: Puzzle_Violet
+  - first:
+      213: 8938509544310379957
+    second: Puzzle_Pink
+  - first:
+      213: 3964150085774875698
+    second: Puzzle_Black
+  - first:
+      213: -2784958384614573724
+    second: Puzzle_White
+  - first:
+      213: 1931746285871675685
+    second: Box_Lock
+  - first:
+      213: 8031661319994168897
+    second: Box_A_1
+  - first:
+      213: -1289928499894453748
+    second: Box_A_2
+  - first:
+      213: -1951982493900704029
+    second: Box_A_3
+  - first:
+      213: 4569683774019541616
+    second: Box_A_4
+  - first:
+      213: -1509060807846807149
+    second: Box_A_5
+  - first:
+      213: -7287870877592847064
+    second: Box_D_1
+  - first:
+      213: 5915139265805180535
+    second: Box_D_2
+  - first:
+      213: 1409209614896645096
+    second: Box_D_3
+  - first:
+      213: 2227631130227347994
+    second: Box_D_4
+  - first:
+      213: 3778502445345971485
+    second: Box_D_5
+  - first:
+      213: -7724260403162542031
+    second: Gate1_1
+  - first:
+      213: -5743506358953294154
+    second: Gate1_2
+  - first:
+      213: 7866710238167116080
+    second: Gate1_3
+  - first:
+      213: 1546584092613441339
+    second: Gate1_4
+  - first:
+      213: 9010819685420687543
+    second: Gate1_5
+  - first:
+      213: 7110779438168973926
+    second: Gate1_6
+  - first:
+      213: 854399431856669013
+    second: Gate1_7
+  - first:
+      213: -4455065525225875260
+    second: Gate1_8
+  - first:
+      213: -8915455295181338730
+    second: Gate1_9
+  - first:
+      213: -5204836215218686088
+    second: Gate1_10
+  - first:
+      213: -3920056615244932215
+    second: Box_B1_1
+  - first:
+      213: -25982931059021755
+    second: Box_C1_1
+  - first:
+      213: 5269421028915663301
+    second: Box_E1_1
+  - first:
+      213: 619850265767477430
+    second: Box_F1_1
+  - first:
+      213: -3809149029464297052
+    second: Box_F2_1
+  - first:
+      213: 6642624037327891321
+    second: Box_F3_1
+  - first:
+      213: -9142659405975539804
+    second: Box_G1_1
+  - first:
+      213: -458744495030071423
+    second: Box_G2_1
+  - first:
+      213: 5329300803857306757
+    second: Box_G3_1
+  - first:
+      213: 3846350702534012354
+    second: BoxSymbol_53
+  - first:
+      213: 7302716475100577402
+    second: BoxSymbol_54
+  - first:
+      213: 1522705125026393033
+    second: BoxSymbol_55
+  - first:
+      213: 1268594392404901667
+    second: BoxSymbol_56
+  - first:
+      213: -3126634044454084811
+    second: BoxSymbol_57
+  - first:
+      213: 8618328656515313210
+    second: BoxSymbol_58
+  - first:
+      213: -6319320495417117325
+    second: BoxSymbol_59
+  - first:
+      213: 7594573135655649314
+    second: BoxSymbol_60
+  - first:
+      213: 4540955802548691922
+    second: BoxSymbol_61
+  - first:
+      213: 6288553361082331449
+    second: BoxSymbol_62
+  - first:
+      213: -7439269692555881206
+    second: BoxSymbol_63
+  - first:
+      213: 8157298981152904065
+    second: BoxSymbol_64
+  - first:
+      213: 2171445851468601972
+    second: BoxSymbol_65
+  - first:
+      213: -7412386834271345914
+    second: BoxSymbol_66
+  - first:
+      213: 3991257151342199888
+    second: BoxSymbol_67
+  - first:
+      213: -6127856726069940326
+    second: BoxSymbol_68
+  - first:
+      213: 1501903331305910936
+    second: BoxSymbol_69
+  - first:
+      213: 1321819382961247610
+    second: BoxSymbol_70
+  - first:
+      213: -2647649901995939614
+    second: Box_B2_1
+  - first:
+      213: 2862989982313670197
+    second: Box_C2_1
+  - first:
+      213: 5199470763374338589
+    second: Box_E2_1
+  - first:
+      213: 8759531691448980131
+    second: Box_F2_1
+  - first:
+      213: -8506704633933796155
+    second: Box_F2_2
+  - first:
+      213: -2223145561122448743
+    second: Box_F3_2
+  - first:
+      213: 3843343241872038125
+    second: Box_G2_1
+  - first:
+      213: 7017792002892002724
+    second: Box_G2_2
+  - first:
+      213: -7028439993492360724
+    second: Box_G3_2
+  - first:
+      213: -9002588670397215098
+    second: BoxSymbol_80
+  - first:
+      213: 3432133315333073548
+    second: BoxSymbol_81
+  - first:
+      213: 6334248737027721361
+    second: BoxSymbol_82
+  - first:
+      213: -3018595377115001367
+    second: BoxSymbol_83
+  - first:
+      213: -4505339711607717123
+    second: BoxSymbol_84
+  - first:
+      213: 5934278730416558495
+    second: BoxSymbol_85
+  - first:
+      213: 5144384780074382133
+    second: BoxSymbol_86
+  - first:
+      213: 4760950376921001725
+    second: BoxSymbol_87
+  - first:
+      213: 8369683944736712699
+    second: BoxSymbol_88
+  - first:
+      213: -4424204279108638664
+    second: BoxSymbol_89
+  - first:
+      213: -7618007531829436177
+    second: BoxSymbol_90
+  - first:
+      213: -3402381421511434266
+    second: BoxSymbol_91
+  - first:
+      213: 3903311516087822393
+    second: BoxSymbol_92
+  - first:
+      213: -3013624237020256746
+    second: BoxSymbol_93
+  - first:
+      213: 6529323063078487550
+    second: BoxSymbol_94
+  - first:
+      213: -4884210103042982609
+    second: BoxSymbol_95
+  - first:
+      213: 5428596165801982503
+    second: BoxSymbol_96
+  - first:
+      213: -4034497040879158735
+    second: BoxSymbol_97
+  - first:
+      213: -613022122088302027
+    second: Box_B3_1
+  - first:
+      213: -6685182996311277659
+    second: Box_C3_1
+  - first:
+      213: 6958325945393697173
+    second: Box_E3_1
+  - first:
+      213: -4435240917391318820
+    second: Box_F3_1
+  - first:
+      213: 4663249321156100598
+    second: Box_F3_2
+  - first:
+      213: 6632801844707247472
+    second: Box_F3_3
+  - first:
+      213: 2812144013373242791
+    second: Box_G3_1
+  - first:
+      213: 4039134913379190877
+    second: Box_G3_2
+  - first:
+      213: 290615512436722820
+    second: Box_G3_3
+  - first:
+      213: -2261977401973259958
+    second: BoxSymbol_107
+  - first:
+      213: -3631112913958139826
+    second: BoxSymbol_108
+  - first:
+      213: 6353719101449505919
+    second: BoxSymbol_109
+  - first:
+      213: 7828451883280473216
+    second: BoxSymbol_110
+  - first:
+      213: -1513746692125096191
+    second: BoxSymbol_111
+  - first:
+      213: 4759190795534829409
+    second: BoxSymbol_112
+  - first:
+      213: 2962193019382677691
+    second: BoxSymbol_113
+  - first:
+      213: -8468305713097014015
+    second: BoxSymbol_114
+  - first:
+      213: -227035879553760681
+    second: BoxSymbol_115
+  - first:
+      213: 5317388382807171493
+    second: BoxSymbol_116
+  - first:
+      213: -1913797451470979572
+    second: BoxSymbol_117
+  - first:
+      213: 8271963985295906845
+    second: BoxSymbol_118
+  - first:
+      213: 5697846065258679739
+    second: BoxSymbol_119
+  - first:
+      213: 8654096085479860537
+    second: BoxSymbol_120
+  - first:
+      213: -3390297192558633077
+    second: BoxSymbol_121
+  - first:
+      213: 8114975008578086459
+    second: BoxSymbol_122
+  - first:
+      213: 1800996032131342988
+    second: BoxSymbol_123
+  - first:
+      213: 8525994778885074824
+    second: BoxSymbol_124
+  - first:
+      213: 8835220819492902877
+    second: Box_B4_1
+  - first:
+      213: -5893770489989217030
+    second: Box_C4_1
+  - first:
+      213: 3185734828650530018
+    second: Box_E4_1
+  - first:
+      213: -8816827542471739082
+    second: Box_F4_1
+  - first:
+      213: 2712192364048723147
+    second: Box_F4_2
+  - first:
+      213: 6280889213235844008
+    second: Box_F4_3
+  - first:
+      213: -6165470323498767443
+    second: Box_G4_1
+  - first:
+      213: 1219332606677815092
+    second: Box_G4_2
+  - first:
+      213: -8460778038974950000
+    second: Box_G4_3
+  - first:
+      213: -7625780203904663050
+    second: BoxSymbol_134
+  - first:
+      213: 350671539242298504
+    second: BoxSymbol_135
+  - first:
+      213: -7284764253530735726
+    second: BoxSymbol_136
+  - first:
+      213: 6557764849652686770
+    second: BoxSymbol_137
+  - first:
+      213: 2275229004873474627
+    second: BoxSymbol_138
+  - first:
+      213: 3233836125798149617
+    second: BoxSymbol_139
+  - first:
+      213: 3143247301791630297
+    second: BoxSymbol_140
+  - first:
+      213: -6603706872946722446
+    second: BoxSymbol_141
+  - first:
+      213: -3914829760863952830
+    second: BoxSymbol_142
+  - first:
+      213: 7770368027189242768
+    second: BoxSymbol_143
+  - first:
+      213: 4920727102521152686
+    second: BoxSymbol_144
+  - first:
+      213: -7878196835631855909
+    second: BoxSymbol_145
+  - first:
+      213: 645014697182196941
+    second: BoxSymbol_146
+  - first:
+      213: -5457762024860126112
+    second: BoxSymbol_147
+  - first:
+      213: 3321135253845988439
+    second: BoxSymbol_148
+  - first:
+      213: 8727307961547244374
+    second: BoxSymbol_149
+  - first:
+      213: 1100981589149446121
+    second: BoxSymbol_150
+  - first:
+      213: -3420056803229713096
+    second: BoxSymbol_151
+  - first:
+      213: -9146912803553508242
+    second: Box_B5_1
+  - first:
+      213: 8573665743557658478
+    second: Box_C5_1
+  - first:
+      213: -6715771264457363525
+    second: Box_E5_1
+  - first:
+      213: 3962974177209315361
+    second: Box_F5_1
+  - first:
+      213: 8002344344288916114
+    second: Box_F5_2
+  - first:
+      213: 8913392256295932743
+    second: Box_F5_3
+  - first:
+      213: -674442486996565016
+    second: Box_G5_1
+  - first:
+      213: 4446887818498319671
+    second: Box_G5_2
+  - first:
+      213: -388109015378247942
+    second: Box_G5_3
+  - first:
+      213: -2780735048808910806
+    second: BoxSymbol_161
+  - first:
+      213: -6445789194802143228
+    second: BoxSymbol_162
+  - first:
+      213: 2019965235338974562
+    second: BoxSymbol_163
+  - first:
+      213: -7946217853988344325
+    second: BoxSymbol_164
+  - first:
+      213: -5739156715079640617
+    second: BoxSymbol_165
+  - first:
+      213: 1149440843194171931
+    second: BoxSymbol_166
+  - first:
+      213: 282583725380931121
+    second: BoxSymbol_167
+  - first:
+      213: -261217186249530017
+    second: BoxSymbol_168
+  - first:
+      213: -7855026747460873426
+    second: BoxSymbol_169
+  - first:
+      213: 2991867255208958494
+    second: BoxSymbol_170
+  - first:
+      213: 2810429719233753837
+    second: BoxSymbol_171
+  - first:
+      213: 5969130785553532416
+    second: BoxSymbol_172
+  - first:
+      213: 968347130419046703
+    second: BoxSymbol_173
+  - first:
+      213: 6212133627749820751
+    second: BoxSymbol_174
+  - first:
+      213: 1297593673255808228
+    second: BoxSymbol_175
+  - first:
+      213: -8781655177159656004
+    second: BoxSymbol_176
+  - first:
+      213: 1225545516062913564
+    second: BoxSymbol_177
+  - first:
+      213: -2358119099030118050
+    second: BoxSymbol_178
+  - first:
+      213: -8454048883326273542
+    second: Box_B6_1
+  - first:
+      213: -3333044992699824798
+    second: Box_C6_1
+  - first:
+      213: -5789277733301775977
+    second: Box_E6_1
+  - first:
+      213: -6631960047309766164
+    second: Box_F6_1
+  - first:
+      213: -4677474589022689457
+    second: Box_F6_2
+  - first:
+      213: -4104290125379973701
+    second: Box_F6_3
+  - first:
+      213: -1837959326572172949
+    second: Box_G6_1
+  - first:
+      213: 6040421564525032706
+    second: Box_G6_2
+  - first:
+      213: -1577144203076494987
+    second: Box_G6_3
+  - first:
+      213: 626943058942706826
+    second: BoxSymbol_188
+  - first:
+      213: 6942988755252270917
+    second: BoxSymbol_189
+  - first:
+      213: 2516000385007869852
+    second: BoxSymbol_190
+  - first:
+      213: -5364160889606363255
+    second: BoxSymbol_191
+  - first:
+      213: 8540061585373617906
+    second: BoxSymbol_192
+  - first:
+      213: 5308084835132550910
+    second: BoxSymbol_193
+  - first:
+      213: -8842438541740628207
+    second: BoxSymbol_194
+  - first:
+      213: 2847080914546037448
+    second: BoxSymbol_195
+  - first:
+      213: -5163389482535153317
+    second: BoxSymbol_196
+  - first:
+      213: -6719701082304874629
+    second: BoxSymbol_197
+  - first:
+      213: 1826641413133893351
+    second: BoxSymbol_198
+  - first:
+      213: -1004954407562345433
+    second: BoxSymbol_199
+  - first:
+      213: -3073034569526287353
+    second: BoxSymbol_200
+  - first:
+      213: 4310621091827694480
+    second: BoxSymbol_201
+  - first:
+      213: 3214856212056214642
+    second: BoxSymbol_202
+  - first:
+      213: 5338946743117574119
+    second: BoxSymbol_203
+  - first:
+      213: -5083930250547549782
+    second: BoxSymbol_204
+  - first:
+      213: -2339529013552641863
+    second: BoxSymbol_205
+  - first:
+      213: 3428234728689991915
+    second: Box_B7_1
+  - first:
+      213: 6195085796332941265
+    second: Box_C7_1
+  - first:
+      213: 8410530633934924908
+    second: Box_E7_1
+  - first:
+      213: -7348814960275189897
+    second: Box_F7_1
+  - first:
+      213: -3325901643801173757
+    second: Box_F7_2
+  - first:
+      213: -2099595049297098272
+    second: Box_F7_3
+  - first:
+      213: -2626830720300938320
+    second: Box_G7_1
+  - first:
+      213: -100705635598436439
+    second: Box_G7_2
+  - first:
+      213: 6925914271847735796
+    second: Box_G7_3
+  - first:
+      213: -566959134114685208
+    second: BoxSymbol_215
+  - first:
+      213: -3827628736241253773
+    second: BoxSymbol_216
+  - first:
+      213: 1080735205072167881
+    second: BoxSymbol_217
+  - first:
+      213: -1119597550317465158
+    second: BoxSymbol_218
+  - first:
+      213: 2064210126087517919
+    second: BoxSymbol_219
+  - first:
+      213: 2719518352879969090
+    second: BoxSymbol_220
+  - first:
+      213: -5481507651216930502
+    second: BoxSymbol_221
+  - first:
+      213: -4011333307045293923
+    second: BoxSymbol_222
+  - first:
+      213: -5152721255295604789
+    second: BoxSymbol_223
+  - first:
+      213: -1067974695693303083
+    second: BoxSymbol_224
+  - first:
+      213: 2076308842263188256
+    second: BoxSymbol_225
+  - first:
+      213: -3851088308149367181
+    second: BoxSymbol_226
+  - first:
+      213: -4181646955767233608
+    second: BoxSymbol_227
+  - first:
+      213: 1688120782712723795
+    second: BoxSymbol_228
+  - first:
+      213: 7572717566598124392
+    second: BoxSymbol_229
+  - first:
+      213: 2841134049244395501
+    second: BoxSymbol_230
+  - first:
+      213: 2568070773427863511
+    second: BoxSymbol_231
+  - first:
+      213: 3894738283660360947
+    second: BoxSymbol_232
+  - first:
+      213: 5072476279533502188
+    second: Box_B8_1
+  - first:
+      213: 5537178310701107689
+    second: Box_C8_1
+  - first:
+      213: -1561815074571131993
+    second: Box_E8_1
+  - first:
+      213: 1835577823858927499
+    second: Box_F8_1
+  - first:
+      213: -5492575294628460005
+    second: Box_F8_2
+  - first:
+      213: -4710403614553602129
+    second: Box_F8_3
+  - first:
+      213: 4704108669202716057
+    second: Box_G8_1
+  - first:
+      213: 142734169363840775
+    second: Box_G8_2
+  - first:
+      213: 7428513804971862686
+    second: Box_G8_3
+  - first:
+      213: -939815703543649926
+    second: BoxSymbol_242
+  - first:
+      213: -1478434256186729621
+    second: BoxSymbol_243
+  - first:
+      213: 4858829606287268310
+    second: BoxSymbol_244
+  - first:
+      213: -4252688199542515159
+    second: BoxSymbol_245
+  - first:
+      213: 6205911855671785266
+    second: BoxSymbol_246
+  - first:
+      213: -499510139120844242
+    second: BoxSymbol_247
+  - first:
+      213: -3765327983947145281
+    second: BoxSymbol_248
+  - first:
+      213: -7958626761228271958
+    second: BoxSymbol_249
+  - first:
+      213: 666746473230236128
+    second: BoxSymbol_250
+  - first:
+      213: 1928599991627742968
+    second: BoxSymbol_251
+  - first:
+      213: 6588502199442011679
+    second: BoxSymbol_252
+  - first:
+      213: 7496230979625742965
+    second: BoxSymbol_253
+  - first:
+      213: -7090239426190751725
+    second: BoxSymbol_254
+  - first:
+      213: -7036878459388812830
+    second: BoxSymbol_255
+  - first:
+      213: -6682743382842337080
+    second: BoxSymbol_256
+  - first:
+      213: -5606126717769729108
+    second: BoxSymbol_257
+  - first:
+      213: 9201499108846269457
+    second: BoxSymbol_258
+  - first:
+      213: 5432885998215989669
+    second: BoxSymbol_259
+  - first:
+      213: -4861261369103110416
+    second: Box_B9_1
+  - first:
+      213: -4899871276495311198
+    second: Box_C9_1
+  - first:
+      213: -8509066300491640952
+    second: Box_E9_1
+  - first:
+      213: 1551004664116386236
+    second: Box_F9_1
+  - first:
+      213: 2050388499439056537
+    second: Box_F9_2
+  - first:
+      213: 4531916506176718881
+    second: Box_F9_3
+  - first:
+      213: 2933495069122027565
+    second: Box_G9_1
+  - first:
+      213: -4124547137267084371
+    second: Box_G9_2
+  - first:
+      213: -6897433086365476591
+    second: Box_G9_3
+  - first:
+      213: -5775625714627685181
+    second: BoxSymbol_269
+  - first:
+      213: -8917341620696716503
+    second: BoxSymbol_270
+  - first:
+      213: 7099070740070661599
+    second: BoxSymbol_271
+  - first:
+      213: 1219451047510659140
+    second: BoxSymbol_272
+  - first:
+      213: -683691743770913620
+    second: BoxSymbol_273
+  - first:
+      213: 1704144247824129688
+    second: BoxSymbol_274
+  - first:
+      213: -6724144015247144435
+    second: BoxSymbol_275
+  - first:
+      213: 5976874852006301587
+    second: BoxSymbol_276
+  - first:
+      213: -7483804629411803759
+    second: BoxSymbol_277
+  - first:
+      213: -8954428174758877810
+    second: BoxSymbol_278
+  - first:
+      213: 5928166691472612482
+    second: BoxSymbol_279
+  - first:
+      213: -5961063856733496121
+    second: BoxSymbol_280
+  - first:
+      213: -576664370689162194
+    second: BoxSymbol_281
+  - first:
+      213: 775056669372992221
+    second: BoxSymbol_282
+  - first:
+      213: -6688575806646841273
+    second: BoxSymbol_283
+  - first:
+      213: 6184763678233676235
+    second: BoxSymbol_284
+  - first:
+      213: -29605296051588427
+    second: BoxSymbol_285
+  - first:
+      213: 2789262720947874436
+    second: BoxSymbol_286
+  - first:
+      213: -4383088731531171936
+    second: Box_B10_1
+  - first:
+      213: 469691963102198832
+    second: Box_C10_1
+  - first:
+      213: 2585397671433913708
+    second: Box_E10_1
+  - first:
+      213: 6507486876087617276
+    second: Box_F10_1
+  - first:
+      213: -7642868636285466645
+    second: Box_F10_2
+  - first:
+      213: 1192976994989443019
+    second: Box_F10_3
+  - first:
+      213: -5916591512885087763
+    second: Box_G10_1
+  - first:
+      213: -8104397250263926709
+    second: Box_G10_2
+  - first:
+      213: 6799785866044667490
+    second: Box_G10_3
+  - first:
+      213: 5697377095221294831
+    second: BoxSymbol_296
+  - first:
+      213: 7620119583989743219
+    second: BoxSymbol_297
+  - first:
+      213: 4469941462541085313
+    second: BoxSymbol_298
+  - first:
+      213: -1811531487016276994
+    second: BoxSymbol_299
+  - first:
+      213: 1808307808474234164
+    second: BoxSymbol_300
+  - first:
+      213: -8447464178399216437
+    second: BoxSymbol_301
+  - first:
+      213: -3155744536508713676
+    second: BoxSymbol_302
+  - first:
+      213: 55404976939149596
+    second: BoxSymbol_303
+  - first:
+      213: -7278468308958655777
+    second: BoxSymbol_304
+  - first:
+      213: 1397966472521111580
+    second: BoxSymbol_305
+  - first:
+      213: 3627200741524258720
+    second: BoxSymbol_306
+  - first:
+      213: -5668977790252908539
+    second: BoxSymbol_307
+  - first:
+      213: 1245874368052933513
+    second: BoxSymbol_308
+  - first:
+      213: 3265255976590774034
+    second: BoxSymbol_309
+  - first:
+      213: 4462247433305080550
+    second: BoxSymbol_310
+  - first:
+      213: -1293707422874106322
+    second: BoxSymbol_311
+  - first:
+      213: -5916585865081183280
+    second: BoxSymbol_312
+  - first:
+      213: -5493408854393244390
+    second: BoxSymbol_313
+  - first:
+      213: 5879201385337573890
+    second: Gate2_1
+  - first:
+      213: 7246675908361314204
+    second: Gate2_2
+  - first:
+      213: -2826703628695989339
+    second: Gate2_3
+  - first:
+      213: 536483282824053523
+    second: Gate2_4
+  - first:
+      213: -4674356046913435603
+    second: Gate2_5
+  - first:
+      213: 8173705090786584876
+    second: Gate2_6
+  - first:
+      213: -7301553591339539036
+    second: Gate2_7
+  - first:
+      213: 4732338515330957407
+    second: Gate2_8
+  - first:
+      213: -3335998851802046897
+    second: Gate2_9
+  - first:
+      213: -1285149760323120895
+    second: Gate2_10
+  - first:
+      213: -7585541269937253339
+    second: Gate3_1
+  - first:
+      213: 7238653293659935092
+    second: Gate3_2
+  - first:
+      213: -8938394040536750168
+    second: Gate3_3
+  - first:
+      213: 1587657904308273895
+    second: Gate3_4
+  - first:
+      213: 5985665575904544953
+    second: Gate3_5
+  - first:
+      213: -4581521970552507905
+    second: Gate3_6
+  - first:
+      213: -5698919953968760344
+    second: Gate3_7
+  - first:
+      213: 6246820072437607441
+    second: Gate3_8
+  - first:
+      213: 6698022378106259175
+    second: Gate3_9
+  - first:
+      213: 2252023743177144115
+    second: Gate3_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Box_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77380f864b048f8c0800000000000000
+      internalID: -3965348328300838025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d0642611c7fd30800000000000000
+      internalID: 4465249856404902766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d96cf08bcc0e9f70800000000000000
+      internalID: 9195801557319051734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d02945a052ce10800000000000000
+      internalID: 2216422637446420140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc178f92cf5f2b0800000000000000
+      internalID: -5551253708472201399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 611
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44227974890d2f030800000000000000
+      internalID: 3527110810639213124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8bd61ce970d540800000000000000
+      internalID: 5030654838675573893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9001006b9deb50800000000000000
+      internalID: 6624121463567850237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb121a497a3ac840800000000000000
+      internalID: 5245069008634518491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cc283f6c882aa0800000000000000
+      internalID: -6185539678881659925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa7ebb4f4bbaca0800000000000000
+      internalID: -6004506714950882638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075d5e437206ab10800000000000000
+      internalID: 1992282579417257732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_None
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e674e28ae426e0800000000000000
+      internalID: -1863106497924898767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Red
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33619fd0f1c25e6e0800000000000000
+      internalID: -1808991163429349837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Orange
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf7f68bb31b76c0800000000000000
+      internalID: -4144697335920198641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Yellow
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6469a554de47ecd90800000000000000
+      internalID: -7075589402132834746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Green
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 611
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459ea2c346cac020800000000000000
+      internalID: 2362918948840576326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Turqouise
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53fc1f6ca9183820800000000000000
+      internalID: 2898094588602151772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Navy
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357feb4695454b9f0800000000000000
+      internalID: -453644919538518189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Violet
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afe10c57caaae00800000000000000
+      internalID: 1056846684306209300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Pink
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51f028217fb0c70800000000000000
+      internalID: 8938509544310379957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_Black
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c12f2008d730730800000000000000
+      internalID: 3964150085774875698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzzle_White
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 612
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697dc2ca17d959d0800000000000000
+      internalID: -2784958384614573724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_Lock
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 612
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529bf8d1301feca10800000000000000
+      internalID: 1931746285871675685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_A_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1465f7eba61367f60800000000000000
+      internalID: 8031661319994168897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_A_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a732a1dd0491ee0800000000000000
+      internalID: -1289928499894453748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_A_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6744b834a29e4e0800000000000000
+      internalID: -1951982493900704029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_A_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a1d466e27ca6f30800000000000000
+      internalID: 4569683774019541616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_A_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399b3dbc03dbe0be0800000000000000
+      internalID: -1509060807846807149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_D_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df924bc084cda90800000000000000
+      internalID: -7287870877592847064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_D_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 561
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e584f82dbc61250800000000000000
+      internalID: 5915139265805180535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_D_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3cafdada48e8310800000000000000
+      internalID: 1409209614896645096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_D_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129dcfd5b22aee10800000000000000
+      internalID: 2227631130227347994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_D_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9ac564ffef6430800000000000000
+      internalID: 3778502445345971485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13091e4961aedc490800000000000000
+      internalID: -7724260403162542031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6446d9567fa40b0800000000000000
+      internalID: -5743506358953294154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03921e0384b2c2d60800000000000000
+      internalID: 7866710238167116080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377e7fb902967510800000000000000
+      internalID: 1546584092613441339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e89433ccdc0d70800000000000000
+      internalID: 9010819685420687543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a63879309ea260800000000000000
+      internalID: 7110779438168973926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551cc18a1cf6bdb00800000000000000
+      internalID: 854399431856669013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c892dd328d6c22c0800000000000000
+      internalID: -4455065525225875260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69747d725a0f54480800000000000000
+      internalID: -8915455295181338730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate1_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 561
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773dc5e905b4c7b0800000000000000
+      internalID: -5204836215218686088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd7ec17492999c0800000000000000
+      internalID: -3920056615244932215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C1_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e00079a0b3aff0800000000000000
+      internalID: -25982931059021755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E1_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1dd78d18eb02940800000000000000
+      internalID: 5269421028915663301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F1_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0800958862a9800800000000000000
+      internalID: 619850265767477430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F1_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b142b32f232bc0800000000000000
+      internalID: -3809149029464297052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F1_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 510
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b66692e575f2c50800000000000000
+      internalID: 6642624037327891321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G1_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 511
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa17cc5bfbe1180800000000000000
+      internalID: -9142659405975539804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G1_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 511
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f0113ff4632a9f0800000000000000
+      internalID: -458744495030071423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G1_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845e1368da75f940800000000000000
+      internalID: 5329300803857306757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2d1ac59bf06530800000000000000
+      internalID: 3846350702534012354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e33c151f5785560800000000000000
+      internalID: 7302716475100577402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_55
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6dda5e3cb12510800000000000000
+      internalID: 1522705125026393033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_56
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb85be0e3fa9110800000000000000
+      internalID: 1268594392404901667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_57
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fdba5f6e6fb94d0800000000000000
+      internalID: -3126634044454084811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_58
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2a2150447a9770800000000000000
+      internalID: 8618328656515313210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37531d89d734d48a0800000000000000
+      internalID: -6319320495417117325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ca737708556960800000000000000
+      internalID: 7594573135655649314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_61
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 510
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e9af4e37b40f30800000000000000
+      internalID: 4540955802548691922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_62
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b666b6fd654750800000000000000
+      internalID: 6288553361082331449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_63
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0590ea21a762c890800000000000000
+      internalID: -7439269692555881206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835642443c843170800000000000000
+      internalID: 8157298981152904065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_65
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a18c14f76822e10800000000000000
+      internalID: 2171445851468601972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_66
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603697d5279e12990800000000000000
+      internalID: -7412386834271345914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_67
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544df88b3bc36730800000000000000
+      internalID: 3991257151342199888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_68
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fec1046ca75faa0800000000000000
+      internalID: -6127856726069940326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_69
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f6755f15d7d410800000000000000
+      internalID: 1501903331305910936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_70
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 511
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7591aab9bb085210800000000000000
+      internalID: 1321819382961247610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82fe52178a14bd0800000000000000
+      internalID: -2647649901995939614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C2_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ee4b58326bb720800000000000000
+      internalID: 2862989982313670197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E2_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e4fe7c1b382840800000000000000
+      internalID: 5199470763374338589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F2_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d793d9ab109970800000000000000
+      internalID: 8759531691448980131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F2_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce435b43d12f980800000000000000
+      internalID: -8506704633933796155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F2_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 459
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5f4114ecc521e0800000000000000
+      internalID: -2223145561122448743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G2_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 460
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85ea9c05c465530800000000000000
+      internalID: 3843343241872038125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G2_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 460
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a574ff05a4346160800000000000000
+      internalID: 7017792002892002724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G2_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13dbe6017f57e90800000000000000
+      internalID: -7028439993492360724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e84025d41601380800000000000000
+      internalID: -9002588670397215098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a263ae01361af20800000000000000
+      internalID: 3432133315333073548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_82
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19801818aa5c7e750800000000000000
+      internalID: 6334248737027721361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8c6a6f7bcb16d0800000000000000
+      internalID: -3018595377115001367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_84
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df249211761d971c0800000000000000
+      internalID: -4505339711607717123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_85
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9192ac601bca5250800000000000000
+      internalID: 5934278730416558495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533724c83b6846740800000000000000
+      internalID: 5144384780074382133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe63a9a42b421240800000000000000
+      internalID: 4760950376921001725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_88
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf762580437172470800000000000000
+      internalID: 8369683944736712699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_89
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83867f906a11a92c0800000000000000
+      internalID: -4424204279108638664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_90
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06e010386674690800000000000000
+      internalID: -7618007531829436177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_91
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1c6caf1058c0d0800000000000000
+      internalID: -3402381421511434266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_92
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382b1ca4295b2630800000000000000
+      internalID: 3903311516087822393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_93
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61666e929b47d26d0800000000000000
+      internalID: -3013624237020256746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_94
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50f866bb0dc9a50800000000000000
+      internalID: 6529323063078487550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_95
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dbfb7f9ccc73cb0800000000000000
+      internalID: -4884210103042982609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_96
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72abcab637f365b40800000000000000
+      internalID: 5428596165801982503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_97
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 460
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a780721569208c0800000000000000
+      internalID: -4034497040879158735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a787db0ab1e77f0800000000000000
+      internalID: -613022122088302027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C3_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af72660c757933a0800000000000000
+      internalID: -6685182996311277659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E3_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591539e9490f09060800000000000000
+      internalID: 6958325945393697173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F3_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ec9172ebd272c0800000000000000
+      internalID: -4435240917391318820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F3_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14796fc8037b040800000000000000
+      internalID: 4663249321156100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F3_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 407
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c45bb2227c0c50800000000000000
+      internalID: 6632801844707247472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G3_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 408
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad7a5ea41eb60720800000000000000
+      internalID: 2812144013373242791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G3_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 408
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5848dfadc3ed0830800000000000000
+      internalID: 4039134913379190877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G3_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c4201d449780400800000000000000
+      internalID: 290615512436722820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414c619987db90e0800000000000000
+      internalID: -2261977401973259958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_108
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4801301b02bb9dc0800000000000000
+      internalID: -3631112913958139826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_109
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c038cfbd1fc2850800000000000000
+      internalID: 6353719101449505919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_110
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9b2cc28f34ac60800000000000000
+      internalID: 7828451883280473216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_111
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10706f757671efae0800000000000000
+      internalID: -1513746692125096191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_112
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167892230da0c0240800000000000000
+      internalID: 4759190795534829409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_113
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb042745bd2db1920800000000000000
+      internalID: 2962193019382677691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105017922d88a7a80800000000000000
+      internalID: -8468305713097014015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_115
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 407
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7520ee7021869dcf0800000000000000
+      internalID: -227035879553760681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_116
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a20abf882bc940800000000000000
+      internalID: 5317388382807171493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_117
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e360d8b53d075e0800000000000000
+      internalID: -1913797451470979572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_118
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18136afa6bebc270800000000000000
+      internalID: 8271963985295906845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_119
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdc990dec0d21f40800000000000000
+      internalID: 5697846065258679739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_120
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392023d986891870800000000000000
+      internalID: 8654096085479860537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_121
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd98a7aae33f0d0800000000000000
+      internalID: -3390297192558633077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_122
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36287b76ce2e9070800000000000000
+      internalID: 8114975008578086459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_123
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a311695c6ef810800000000000000
+      internalID: 1800996032131342988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_124
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 408
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa748241b625670800000000000000
+      internalID: 8525994778885074824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7920a36820d9a70800000000000000
+      internalID: 8835220819492902877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C4_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4438447fe153ea0800000000000000
+      internalID: -5893770489989217030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E4_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e40e4aa2f0063c20800000000000000
+      internalID: 3185734828650530018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F4_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639771d401654a580800000000000000
+      internalID: -8816827542471739082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F4_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca6a5d594a3a520800000000000000
+      internalID: 2712192364048723147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F4_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 356
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3518c36733a2750800000000000000
+      internalID: 6280889213235844008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G4_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba4a62869df6aa0800000000000000
+      internalID: -6165470323498767443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G4_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 357
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f0514ab80fbe010800000000000000
+      internalID: 1219332606677815092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G4_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d87f5337459a80800000000000000
+      internalID: -8460778038974950000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_134
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18e03ce49cb2690800000000000000
+      internalID: -7625780203904663050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c606138e5ddd400800000000000000
+      internalID: 350671539242298504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_136
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b36dbf18157ea90800000000000000
+      internalID: -7284764253530735726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_137
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5710e26cd10b50800000000000000
+      internalID: 6557764849652686770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_138
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342262aa9bc339f10800000000000000
+      internalID: 2275229004873474627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_139
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2604a2d4e0ec20800000000000000
+      internalID: 3233836125798149617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_140
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ce7074ce0f9b20800000000000000
+      internalID: 3143247301791630297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_141
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2797435469bea54a0800000000000000
+      internalID: -6603706872946722446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_142
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 356
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a39bf21bbba9c0800000000000000
+      internalID: -3914829760863952830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_143
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09beaa23d84e5db60800000000000000
+      internalID: 7770368027189242768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_144
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea419668a3fe94440800000000000000
+      internalID: 4920727102521152686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_145
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68e8de7b50ba290800000000000000
+      internalID: -7878196835631855909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_146
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4737c137d83f800800000000000000
+      internalID: 645014697182196941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_147
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647897da522244b0800000000000000
+      internalID: -5457762024860126112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_148
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545480daea071e20800000000000000
+      internalID: 3321135253845988439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_149
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653467d0a50ad1970800000000000000
+      internalID: 8727307961547244374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_150
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6f7d0ce8774f00800000000000000
+      internalID: 1100981589149446121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_151
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 357
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db5db25748980d0800000000000000
+      internalID: -3420056803229713096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B5_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6488b08443af0180800000000000000
+      internalID: -9146912803553508242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C5_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6780bb8197cbf670800000000000000
+      internalID: 8573665743557658478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E5_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2e3ddd99ccc2a0800000000000000
+      internalID: -6715771264457363525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F5_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207b9674005ff630800000000000000
+      internalID: 3962974177209315361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F5_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29272bb68c90e0f60800000000000000
+      internalID: 8002344344288916114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F5_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 305
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439c3c280bb2bb70800000000000000
+      internalID: 8913392256295932743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G5_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 306
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38325a126e3a6f0800000000000000
+      internalID: -674442486996565016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G5_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 306
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735aa9909e486bd30800000000000000
+      internalID: 4446887818498319671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G5_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb04428e82d9af0800000000000000
+      internalID: -388109015378247942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_161
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a203441c438d869d0800000000000000
+      internalID: -2780735048808910806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_162
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40064cae0e4fb86a0800000000000000
+      internalID: -6445789194802143228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_163
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659407edab580c10800000000000000
+      internalID: 2019965235338974562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_164
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd682176fc59b190800000000000000
+      internalID: -7946217853988344325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_165
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9516fff5b6a50b0800000000000000
+      internalID: -5739156715079640617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_166
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120aec5b52a3ff00800000000000000
+      internalID: 1149440843194171931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_167
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e03aaa660fbe300800000000000000
+      internalID: 282583725380931121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_168
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ae546a58ff5cf0800000000000000
+      internalID: -261217186249530017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_169
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 305
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2317687ac65df290800000000000000
+      internalID: -7855026747460873426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_170
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5ad1ca6f358920800000000000000
+      internalID: 2991867255208958494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_171
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f02970f6a00720800000000000000
+      internalID: 2810429719233753837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_172
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00644cad2dc96d250800000000000000
+      internalID: 5969130785553532416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_173
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2965e7a592407d00800000000000000
+      internalID: 968347130419046703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_174
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4969430f9ee53650800000000000000
+      internalID: 6212133627749820751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_175
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece435229af10210800000000000000
+      internalID: 1297593673255808228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_176
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdbd61c42b412680800000000000000
+      internalID: -8781655177159656004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_177
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b0055723020110800000000000000
+      internalID: 1225545516062913564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_178
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ee3c5c27464fd0800000000000000
+      internalID: -2358119099030118050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B6_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7bc83055f2daa80800000000000000
+      internalID: -8454048883326273542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C6_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658bb50d35aeb1d0800000000000000
+      internalID: -3333044992699824798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E6_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911870139a58afa0800000000000000
+      internalID: -5789277733301775977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F6_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c48f797b86f3a0800000000000000
+      internalID: -6631960047309766164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F6_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e263c4a5461fb0800000000000000
+      internalID: -4677474589022689457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F6_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 254
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd459d50e1aa07c0800000000000000
+      internalID: -4104290125379973701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G6_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 255
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ac0cfab14e76e0800000000000000
+      internalID: -1837959326572172949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G6_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 255
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205bf1fc863e3d350800000000000000
+      internalID: 6040421564525032706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G6_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791f0014bbdc1ae0800000000000000
+      internalID: -1577144203076494987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_188
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a844da2f36953b800800000000000000
+      internalID: 626943058942706826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_189
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d754cc737a5060800000000000000
+      internalID: 6942988755252270917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_190
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd3231501aae220800000000000000
+      internalID: 2516000385007869852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_191
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98728f8671cae85b0800000000000000
+      internalID: -5364160889606363255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_192
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5724c3c4648670800000000000000
+      internalID: 8540061585373617906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_193
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea6bbb80b1aa940800000000000000
+      internalID: 5308084835132550910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_194
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a35bdef8594580800000000000000
+      internalID: -8842438541740628207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_195
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29f4ed10dd28720800000000000000
+      internalID: 2847080914546037448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_196
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 254
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5111885f94f758b0800000000000000
+      internalID: -5163389482535153317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_197
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f868d773deb2a0800000000000000
+      internalID: -6719701082304874629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_198
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefcd1ffa8895910800000000000000
+      internalID: 1826641413133893351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_199
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72488c17a4fad02f0800000000000000
+      internalID: -1004954407562345433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_200
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e3e437536a55d0800000000000000
+      internalID: -3073034569526287353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_201
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b32bb5b0762db30800000000000000
+      internalID: 4310621091827694480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_202
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c819b11b67d9c20800000000000000
+      internalID: 3214856212056214642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_203
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6042a6cfb71a40800000000000000
+      internalID: 5338946743117574119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_204
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa920497f504279b0800000000000000
+      internalID: -5083930250547549782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_205
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 255
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8897de1c2588fd0800000000000000
+      internalID: -2339529013552641863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B7_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0893a7259839f20800000000000000
+      internalID: 3428234728689991915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C7_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2e7375bd59f550800000000000000
+      internalID: 6195085796332941265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E7_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6b38fc0538b470800000000000000
+      internalID: 8410530633934924908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F7_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f88b4bab3c30a90800000000000000
+      internalID: -7348814960275189897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F7_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301e75b831608d1d0800000000000000
+      internalID: -3325901643801173757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F7_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e94a724d6dbcd2e0800000000000000
+      internalID: -2099595049297098272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G7_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 204
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb016f906f9b8bd0800000000000000
+      internalID: -2626830720300938320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G7_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 204
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7764b02c83a9ef0800000000000000
+      internalID: -100705635598436439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G7_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ea4ec55acd1060800000000000000
+      internalID: 6925914271847735796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_215
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5ee0eba1c128f0800000000000000
+      internalID: -566959134114685208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_216
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372434ca1f781eac0800000000000000
+      internalID: -3827628736241253773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_217
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e59a61fa8ffe00800000000000000
+      internalID: 1080735205072167881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_218
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab11ee9b5f36670f0800000000000000
+      internalID: -1119597550317465158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_219
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f53b4c2c85ac10800000000000000
+      internalID: 2064210126087517919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_220
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e097888badb520800000000000000
+      internalID: 2719518352879969090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_221
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3901af55d5cde3b0800000000000000
+      internalID: -5481507651216930502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_222
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d905fd53c91e458c0800000000000000
+      internalID: -4011333307045293923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_223
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 203
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7208f815bdd78b0800000000000000
+      internalID: -5152721255295604789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_224
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d248123caacd21f0800000000000000
+      internalID: -1067974695693303083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_225
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023991b24e780dc10800000000000000
+      internalID: 2076308842263188256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_226
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec812769f2e8ac0800000000000000
+      internalID: -3851088308149367181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_227
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38661cf3ec7f5c0800000000000000
+      internalID: -4181646955767233608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_228
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359db8768e86d6710800000000000000
+      internalID: 1688120782712723795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_229
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863117d3182b71960800000000000000
+      internalID: 7572717566598124392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_230
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ba746d5cbd6720800000000000000
+      internalID: 2841134049244395501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_231
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dffa3023ce93a320800000000000000
+      internalID: 2568070773427863511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_232
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 204
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb0b275d3ec0630800000000000000
+      internalID: 3894738283660360947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B8_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee70351d4e056640800000000000000
+      internalID: 5072476279533502188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C8_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9465b165208dc40800000000000000
+      internalID: 5537178310701107689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E8_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3665be671535ae0800000000000000
+      internalID: -1561815074571131993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F8_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8722b43e48497910800000000000000
+      internalID: 1835577823858927499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F8_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8595ded376c3b0800000000000000
+      internalID: -5492575294628460005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F8_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa701dd8ed841aeb0800000000000000
+      internalID: -4710403614553602129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G8_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 153
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d9a449e9584140800000000000000
+      internalID: 4704108669202716057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G8_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 153
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffd3688f71bf100800000000000000
+      internalID: 142734169363840775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G8_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aee6a92f1671760800000000000000
+      internalID: 7428513804971862686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_242
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7962f3d89a15f2f0800000000000000
+      internalID: -939815703543649926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_243
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b983880eb8b7be0800000000000000
+      internalID: -1478434256186729621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_244
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d957e2a8c70e6340800000000000000
+      internalID: 4858829606287268310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_245
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad5cd3d9a6bf4c0800000000000000
+      internalID: -4252688199542515159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_246
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b3b0d3f3df1650800000000000000
+      internalID: 6205911855671785266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_247
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e220ffbcc226119f0800000000000000
+      internalID: -499510139120844242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_248
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1efde52edebbc0800000000000000
+      internalID: -3765327983947145281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_249
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae321590274d8190800000000000000
+      internalID: -7958626761228271958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_250
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f1248262c04900800000000000000
+      internalID: 666746473230236128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_251
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fefac66973c3ca10800000000000000
+      internalID: 1928599991627742968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_252
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16fe9fc7df0f6b50800000000000000
+      internalID: 6588502199442011679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_253
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572fed6fb56f70860800000000000000
+      internalID: 7496230979625742965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_254
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184e6dbec86a9d90800000000000000
+      internalID: -7090239426190751725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_255
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1288cf25cf75e90800000000000000
+      internalID: -7036878459388812830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_256
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8179ccc402243a0800000000000000
+      internalID: -6682743382842337080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_257
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3285e3790332b0800000000000000
+      internalID: -5606126717769729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_258
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114fad710ba42bf70800000000000000
+      internalID: 9201499108846269457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_259
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 153
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98bdcd70d756b40800000000000000
+      internalID: 5432885998215989669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B9_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea7467a84598cb0800000000000000
+      internalID: -4861261369103110416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C9_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6b5fd809200cb0800000000000000
+      internalID: -4899871276495311198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E9_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc2fc5849b9e980800000000000000
+      internalID: -8509066300491640952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F9_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb991a14686468510800000000000000
+      internalID: 1551004664116386236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F9_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967c901a71747c10800000000000000
+      internalID: 2050388499439056537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F9_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 101
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128846e1d0a94ee30800000000000000
+      internalID: 4531916506176718881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G9_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 102
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e069193ed5b820800000000000000
+      internalID: 2933495069122027565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G9_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da357df3b3aa2c6c0800000000000000
+      internalID: -4124547137267084371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G9_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d821f6256740a0800000000000000
+      internalID: -6897433086365476591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_269
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4510c530bd8dfa0800000000000000
+      internalID: -5775625714627685181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_270
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be095ca0d3f3480800000000000000
+      internalID: -8917341620696716503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_271
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf741c937f48260800000000000000
+      internalID: 7099070740070661599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_272
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d9db444c5ce010800000000000000
+      internalID: 1219451047510659140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_273
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4daac3bf90386f0800000000000000
+      internalID: -683691743770913620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_274
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e15991a2656a710800000000000000
+      internalID: 1704144247824129688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_275
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a00a8e4aa0fa2a0800000000000000
+      internalID: -6724144015247144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_276
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0dc4d20022f250800000000000000
+      internalID: 5976874852006301587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_277
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4c77275f242890800000000000000
+      internalID: -7483804629411803759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_278
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856fb4840b7bb380800000000000000
+      internalID: -8954428174758877810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_279
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c17867234154250800000000000000
+      internalID: 5928166691472612482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_280
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdaff510c064da0800000000000000
+      internalID: -5961063856733496121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_281
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c2766fc64ff7f0800000000000000
+      internalID: -576664370689162194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_282
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda46c23fed81ca00800000000000000
+      internalID: 775056669372992221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_283
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7401b8fcdb76d23a0800000000000000
+      internalID: -6688575806646841273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_284
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94bdc0cc1b4d550800000000000000
+      internalID: 6184763678233676235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_285
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ff5dd322d69ff0800000000000000
+      internalID: -29605296051588427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_286
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 102
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6653aaa375b620800000000000000
+      internalID: 2789262720947874436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_B10_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7211275042c23c0800000000000000
+      internalID: -4383088731531171936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_C10_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cff861a5ea48600800000000000000
+      internalID: 469691963102198832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_E10_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c0f0fb7d21e320800000000000000
+      internalID: 2585397671433913708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F10_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf608bde5dc3f4a50800000000000000
+      internalID: 6507486876087617276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F10_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70b3d08731fe590800000000000000
+      internalID: -7642868636285466645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_F10_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70f8b914e4e8010800000000000000
+      internalID: 1192976994989443019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G10_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 51
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b461dd5b04eda0800000000000000
+      internalID: -5916591512885087763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G10_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 51
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48bd5bc3a5678f80800000000000000
+      internalID: -8104397250263926709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box_G10_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667056e731bd5e50800000000000000
+      internalID: 6799785866044667490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_296
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bc183846211f40800000000000000
+      internalID: 5697377095221294831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_297
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb4b5736a10c960800000000000000
+      internalID: 7620119583989743219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_298
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2d81d31c680e30800000000000000
+      internalID: 4469941462541085313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_299
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba5f0e5b52cd6e0800000000000000
+      internalID: -1811531487016276994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_300
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dfba8fe56681910800000000000000
+      internalID: 1808307808474234164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_301
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7da9161494ca80800000000000000
+      internalID: -8447464178399216437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_302
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b48b501b8434d0800000000000000
+      internalID: -3155744536508713676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_303
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192f317886d4c000800000000000000
+      internalID: 55404976939149596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_304
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 50
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac49fc2afadfa90800000000000000
+      internalID: -7278468308958655777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_305
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d68a9913966310800000000000000
+      internalID: 1397966472521111580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_306
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af369f4bd7665230800000000000000
+      internalID: 3627200741524258720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_307
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500856c3cbeb351b0800000000000000
+      internalID: -5668977790252908539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_308
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9833f86032c3a4110800000000000000
+      internalID: 1245874368052933513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_309
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0a69b205805d20800000000000000
+      internalID: 3265255976590774034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_310
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24c0a06661ded30800000000000000
+      internalID: 4462247433305080550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_311
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 51
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e268d4804f3db0ee0800000000000000
+      internalID: -1293707422874106322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_312
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 51
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32dbcc08014eda0800000000000000
+      internalID: -5916585865081183280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSymbol_313
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 51
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b7e390cd73c3b0800000000000000
+      internalID: -5493408854393244390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202d708b28e179150800000000000000
+      internalID: 5879201385337573890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd148185d519460800000000000000
+      internalID: 7246675908361314204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39446b60885c8d0800000000000000
+      internalID: -2826703628695989339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c9ac04b8f17700800000000000000
+      internalID: 536483282824053523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28860ee0f9512fb0800000000000000
+      internalID: -4674356046913435603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e2235975de6170800000000000000
+      internalID: 8173705090786584876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5aab7a1bbabaa90800000000000000
+      internalID: -7301553591339539036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5083338ec4aca140800000000000000
+      internalID: 4732338515330957407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5a3b18b624b1d0800000000000000
+      internalID: -3335998851802046897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate2_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10113cc1a1b3a2ee0800000000000000
+      internalID: -1285149760323120895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241358a76ebab690800000000000000
+      internalID: -7585541269937253339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471dfcc81dcd47460800000000000000
+      internalID: 7238653293659935092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a65f4af174f380800000000000000
+      internalID: -8938394040536750168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c223c37e780610800000000000000
+      internalID: 1587657904308273895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8031cb02b511350800000000000000
+      internalID: 5985665575904544953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f19eaa0a2b60c0800000000000000
+      internalID: -4581521970552507905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97e4cfe7e59e0b0800000000000000
+      internalID: -5698919953968760344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6c6142c921b650800000000000000
+      internalID: 6246820072437607441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e604a08dd724fc50800000000000000
+      internalID: 6698022378106259175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate3_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b1d5a9abc04f10800000000000000
+      internalID: 2252023743177144115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
